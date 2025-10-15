@@ -55,7 +55,6 @@
   </div>
 
   <p align="center" style="font-size: 0.7em; color: red; font-style: italic;">
-    Website currently unavailable due to domain trouble.
   </p>
 
 <!-- GitHub Stats -->
